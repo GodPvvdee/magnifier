@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import SideExample from "./SideExample";
 
+import SideExample from "./SideExample";
 
 import "./style.css";
 
